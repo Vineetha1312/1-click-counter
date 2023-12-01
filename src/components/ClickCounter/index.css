@@ -1,0 +1,38 @@
+.bg-container {
+    background-color: #f1f5f8;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .top-text {
+    color: #2d3a35;
+    font-size: 25px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    text-align: center;
+  }
+  .count {
+    color: #c20a72;
+    font-size: 25px;
+    font-family: 'Roboto';
+    font-weight: bold;
+  }
+  .button {
+    background-color: #007bff;
+    color: #ffffff;
+    font-size: 10px;
+    font-family: 'Roboto';
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    height: 30px;
+    width: 100px;
+  }
+  .text {
+    color: #2d3a35;
+    font-size: 15px;
+    font-family: 'Roboto';
+  }
+  
